@@ -14,7 +14,6 @@ This project introduces a decentralized, onchain pension fund administrator buil
 - **Cost Efficiency**: DeFi fees (~0.5%) vs. traditional 1-2%; fully auditable onchain.
 - **Programmability**: Future extensions for recurring deposits (e.g., via Gelato), tax reporting, or multi-asset support.
 
-Built as an ERC-4626 compliant vault, this MVP integrates Octant v2 for yield donation, positioning it to win multiple hackathon bounties by demonstrating innovative DeFi for public goods.
 
 ## Features
 - **Diversified Investment Strategy**: Allocates deposits equally (~33%) to Aave v3 Vault, Spark Lending, and Yearn v3 Vault (deployed via Kalani) for risk-managed yield.
