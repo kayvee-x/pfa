@@ -28,7 +28,7 @@ This project introduces a decentralized, onchain pension fund administrator buil
 - **Smart Contracts**: Solidity ^0.8.20, Foundry for testing/deployment.
 - **Base Framework**: Octant v2 (YieldDonatingTokenizedStrategy, BaseHealthCheck).
 - **Integrations**:
-  - Aave v3 ERC-4626 Vault (for bounty-specific use).
+  - Aave v3 ERC-4626 Vault.
   - Spark Lending Pool.
   - Yearn v3 Vault (deployed with Kalani).
 - **Frontend**: Scaffold-ETH 2 (React, ethers.js) for wallet interactions.
